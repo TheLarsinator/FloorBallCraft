@@ -1,0 +1,51 @@
+tile.Goal1.name=Goal
+tile.Rink.name=Rink
+tile.Floor.name=Floorball-Field
+
+item.BallB.name=Blue
+entity.BallB.name=Ball
+item.BallG.name=Green
+entity.BallG.name=Ball
+item.BallR.name=Red
+entity.BallR.name=Ball
+item.BallW.name=White
+entity.BallW.name=Ball
+item.BallO.name=Orange
+entity.BallO.name=Ball
+
+item.ShaftQ2.name=Q2 Shaft
+
+item.Blade.first.name=Orange Blade
+item.Blade.second.name=Red Blade
+item.Blade.third.name=Green Blade
+item.Blade.fourth.name=Blue Blade
+
+item.Grip.first.name=Orange Grip
+item.Grip.second.name=Red Grip
+item.Grip.third.name=Green Grip
+item.Grip.fourth.name=Blue Grip
+
+item.Shaft.name=Shaft
+item.Net.name=Net
+item.LineBrush.name=Line Brush
+item.FieldCleaner.name=Field Cleaner
+item.FieldBuilder.name=Field Builder
+
+item.SalmingQ2OO.1.name=Salming Quest 2
+item.SalmingQ2OO.2.name=Salming Quest 2
+item.SalmingQ2OO.3.name=Salming Quest 2
+item.SalmingQ2OO.4.name=Salming Quest 2
+item.SalmingQ2OO.5.name=Salming Quest 2
+item.SalmingQ2OO.6.name=Salming Quest 2
+item.SalmingQ2OO.7.name=Salming Quest 2
+item.SalmingQ2OO.8.name=Salming Quest 2
+item.SalmingQ2OO.9.name=Salming Quest 2
+item.SalmingQ2OO.10.name=Salming Quest 2
+item.SalmingQ2OO.11.name=Salming Quest 2
+item.SalmingQ2OO.12.name=Salming Quest 2
+item.SalmingQ2OO.13.name=Salming Quest 2
+item.SalmingQ2OO.14.name=Salming Quest 2
+item.SalmingQ2OO.15.name=Salming Quest 2
+item.SalmingQ2OO.16.name=Salming Quest 2
+
+itemGroup.FCItems=FloorBallCraft Items
